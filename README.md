@@ -1,5 +1,5 @@
 # Tianchi O2O Coupon Usage Prediction Project  
-A record of participation in the Tianchi Newcomer Actual Competition for O2O coupon usage prediction, including code versions and dataset information.  
+A record of participation in the Tianchi Newcomer Actual Competition for O2O coupon usage prediction, including code versions, dataset information, and model performance metrics.  
 
 
 ## Dataset Information  
@@ -10,9 +10,14 @@ A record of participation in the Tianchi Newcomer Actual Competition for O2O cou
   [https://tianchi.aliyun.com/competition/entrance/231593/information](https://tianchi.aliyun.com/competition/entrance/231593/information)  
 
 
+## Model Performance Metrics  
+- **Training AUC (Random Forest)**: `rf_auc_train: 0.9695254211239228`  
+- **Validation AUC (Random Forest)**: `rf_auc_valid: 0.9393649606706076`  
+
+
 ## Code & Score Details  
 - **Submission Tool**: `Rfsubmit` is used to upload code to Tianchi for score evaluation.  
-- **Current Score**: The score of the submitted code is 0.6041.  
+- **Current Competition Score**: The score of the submitted code is 0.6041.  
 
 
 ## Code Versions (Pandas Compatibility)  
@@ -29,9 +34,14 @@ Due to updates in the Pandas library, two versions of the code are provided for 
   [https://tianchi.aliyun.com/competition/entrance/231593/information](https://tianchi.aliyun.com/competition/entrance/231593/information)  
 
 
+### 模型性能指标（中文补充）  
+- **随机森林训练集 AUC**：`rf_auc_train: 0.9695254211239228`  
+- **随机森林验证集 AUC**：`rf_auc_valid: 0.9393649606706076`  
+
+
 ### 代码及成绩详情（中文补充）  
 - **提交工具**：使用 `Rfsubmit` 上传代码到天池检查成绩。  
-- **当前成绩**：此代码的成绩为 0.6041。  
+- **当前比赛成绩**：此代码的成绩为 0.6041。  
 
 
 ### 代码版本（Pandas 兼容性，中文补充）  

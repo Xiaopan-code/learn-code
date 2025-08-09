@@ -14,7 +14,6 @@ dfon = pd.read_csv('ccf_online_stage1_train.csv')
 
 dfoff.head()
 
-
 # 1. 将满xx减yy类型(`xx:yy`)的券变成折扣率 : `1 - yy/xx`，同时建立折扣券相关的特征 `discount_rate, discount_man, discount_jian, discount_type`
 # 2. 将距离 `str` 转为 `int`
 # convert Discount_rate and Distance

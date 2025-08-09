@@ -32,7 +32,6 @@ def convertRate(row):
     else:
         return float(row)
 
-
 def getDiscountMan(row):
     if ':' in str(row):
         rows = row.split(':')

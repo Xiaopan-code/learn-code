@@ -15,4 +15,4 @@
 | Bird-Identification      | Bird Recognition: Identifies 325 bird species with Python 3.12. Dataset via Baidu AI Studio (recommended). Use a dedicated virtual environment. |  
 | Image-Recognition      | Face Recognition System: PyQt5 GUI for face enrollment (camera/local images), real-time recognition, and data management. Depends on dlib model files (manually place in specified paths). |  
 | Intelligent-language-processing      | Smart Home Voice Control: Controls devices (lights, fans) via voice commands (supports location specs like “living room light”). Integrates Baidu Speech API (API key/secret required). |  
-|O2O-coupon-usage-predictions   | Tianchi Coupon Usage Prediction: Competes in Alibaba Tianchi’s O2O coupon prediction challenge. Uses Random Forest. Includes `demo.py` (for old Pandas) and `revise.py` (for latest Pandas). |  
+| O2O-coupon-usage-predictions   | Tianchi Coupon Usage Prediction: Competes in Alibaba Tianchi’s O2O coupon prediction challenge. Uses Random Forest. Includes `demo.py` (for old Pandas) and `revise.py` (for latest Pandas). |  
